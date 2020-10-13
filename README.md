@@ -49,7 +49,7 @@ Script turn this file into
 license line prefix	  This is sample license
 license line prefix	  Today is October, 13
 license line prefix	  
-license line prefix	  I can evaulate lua!
+license line prefix	  I can evaluate lua!
 license line prefix	  
 license line prefix	  and now print list
 license line prefix	  list prefix a list postfix
