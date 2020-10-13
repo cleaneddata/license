@@ -6,8 +6,7 @@
  Copyright © 2020, cleaneddata
 --]]
 
-package.path = package.path..";C:/?.lua"
-opt = require "Users/msda0/Desktop/licenser/license_opt"
+opt = require "license_opt"
 
 macro expr is = (c, c2) -> "type(#{c}) == \"#{c2}\""
 
